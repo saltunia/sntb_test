@@ -1,0 +1,311 @@
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\bin\Release\Workplace of the teacher.exe.config
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\bin\Release\Workplace of the teacher.exe.manifest
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\bin\Release\Workplace of the teacher.application
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\bin\Release\Workplace of the teacher.exe
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\bin\Release\Workplace of the teacher.pdb
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.TrustInfo.xml
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe.manifest
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.application
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe
+C:\Documents and Settings\Andrey\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.pdb
+C:\Documents and Settings\Andrey\Desktop\testeditor\Workplace of the teacher.exe.config
+C:\Documents and Settings\Andrey\Desktop\Adel\Workplace of the teacher.exe.config
+C:\Documents and Settings\Andrey\Desktop\Adel\Workplace of the teacher.exe.manifest
+C:\Documents and Settings\Andrey\Desktop\Adel\Workplace of the teacher.application
+C:\Documents and Settings\Andrey\Desktop\Adel\Workplace of the teacher.exe
+C:\Documents and Settings\Andrey\Desktop\Adel\Workplace of the teacher.pdb
+C:\Documents and Settings\SaltanatK\Desktop\Adel\Workplace of the teacher.exe.config
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.pdb
+C:\Documents and Settings\SaltanatK\Desktop\Adel\Workplace of the teacher.exe.manifest
+C:\Documents and Settings\SaltanatK\Desktop\Adel\Workplace of the teacher.application
+C:\Documents and Settings\SaltanatK\Desktop\Adel\Workplace of the teacher.exe
+C:\Documents and Settings\SaltanatK\Desktop\Adel\Workplace of the teacher.pdb
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.TrustInfo.xml
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe.manifest
+C:\Documents and Settings\SaltanatK\Desktop\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.application
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.pdb
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.TrustInfo.xml
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.exe.manifest
+C:\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\Workplace of the teacher.application
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\for Urman.exe.config
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\for Urman.exe.manifest
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\for Urman.application
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\for Urman.exe
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\for Urman.pdb
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\Adel\teacher.exe.config
+C:\testirovanie\teacher.exe.config
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form16.resources
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.TrustInfo.xml
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe.manifest
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.application
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe
+C:\Documents and Settings\SaltanatK\Desktop\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.pdb
+E:\Adel\teacher.exe.config
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.pdb
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form16.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+E:\Adel\teacher.exe.manifest
+E:\Adel\teacher.application
+E:\Adel\teacher.exe
+E:\Adel\teacher.pdb
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.TrustInfo.xml
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe.manifest
+E:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.application
+G:\Adel\teacher.exe.config
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.pdb
+G:\Adel\teacher.exe.manifest
+G:\Adel\teacher.application
+G:\Adel\teacher.exe
+G:\Adel\teacher.pdb
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form16.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.read.1.tlog
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\GenerateResource.write.1.tlog
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.TrustInfo.xml
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe.manifest
+G:\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.application
+C:\Adel\teacher.exe.config
+C:\Adel\teacher.exe.manifest
+C:\Adel\teacher.application
+C:\Adel\teacher.exe
+C:\Adel\teacher.pdb
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form16.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.TrustInfo.xml
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe.manifest
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.application
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.pdb
+C:\мои\for_sorevn\ProjectSaltanat\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.exe
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.pdb
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.AboutBox1.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.audentification.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form10.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form11.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form12.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form13.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form15.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form16.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form2.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form3.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form4.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form5.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form6.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form7.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form8.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form9.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.MDIParent1.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.prog.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.redac_vopr.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_doc.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_prog.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.red_testov.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.reg_user.resources
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.cache
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\RdlCompile.compiled
+C:\Аттестация\sntb1\WindowsFormsApplication6\obj\x86\Release\teacher.TrustInfo.xml
